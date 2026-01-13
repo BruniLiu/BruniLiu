@@ -1,4 +1,4 @@
-# Hi! I'm Bruni Liu
+# Hi! I'm Bruni
 
 Research-oriented undergraduate exploring the frontiers of **multimodal learning** and **next-token prediction**. I build unified token interfaces across modalities.
 
