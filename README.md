@@ -77,4 +77,4 @@ Seeking opportunities in computer vision and AI research, particularly in neural
 ### Contact
 
 Email: lnubruni@gmail.com  
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/BruniLiu
