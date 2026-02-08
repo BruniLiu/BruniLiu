@@ -1,44 +1,49 @@
-# Hi! I'm Bruni
+## Bruni Liu
 
-Research-oriented undergraduate exploring the frontiers of **multimodal learning** and **next-token prediction**. I build unified token interfaces across modalities.
+Undergraduate student at Liaoning University with strong interest in Artificial Intelligence research. Currently focusing on neural rendering and model efficiency, aiming to pursue graduate studies in computer science.
 
-## Overview
+---
 
-I study whether perception can be treated as prediction: represent images and text in a shared token space and let a single model evolve that space forward. Concretely, I design PDE-driven alternatives to self-attention and evaluate them on captioning, retrieval, and cross-modal indexing.
+### Research Interests
 
-## Research Focus
+- 3D Gaussian Splatting and Neural Rendering  
+- Model Compression and Lightweight AI  
+- Knowledge Distillation  
+- Multimodal Learning  
+- Time Series Anomaly Detection  
 
-- **Emu3 as a Unified Interface**  
-  Studying next-token prediction as a general API for vision–language tasks, with extensions to image↔text retrieval and cross-modal indexing.
+---
 
-- **CLIP + GPT-2 Captioning (PKU Summer School 2025)**  
-  A lightweight captioning pipeline aligning CLIP embeddings to GPT-2 for sequence generation.  
-  Project: <https://github.com/Bruni-coder/multimodal-captioning-via-clip-gpt2>
+### Current Projects
 
-## Interests
+**Budgeted Gaussian Gating for Compact 3D Gaussian Splatting**  
+A research project exploring learnable sparsification strategies for 3D Gaussian Splatting to reduce model size while preserving rendering quality.
 
-Multimodal retrieval and representation learning; attention-free architectures; federated learning and privacy; graph-based modeling with PyTorch Geometric.
+**Literature Study on AI Model Efficiency**  
+Systematic review and experimentation on knowledge distillation and efficient learning techniques.
 
-## Selected Technical Directions
+---
 
-- **Attention alternatives:** PDE-style continuous evolution, token-field dynamics, and stability/complexity trade-offs.  
-- **Unified tokenization:** constructing `[image_tokens] + text_tokens` training formats for next-token objectives.  
-- **Evaluation beyond BLEU:** retrieval-style metrics, latency/throughput under long contexts, and robustness to token sparsity.  
-- **Graph priors:** when and how graph structure benefits multimodal token propagation.
+### Technical Skills
 
-## Projects
+**Languages**  
+Python, C++, LaTeX
 
-- **PDEformer (research code, WIP)**  
-  Prototype of PDE-driven token evolution with image–text inputs; focuses on stability, step size control, and inference latency.
-- **CLIP-GPT2 Captioning**  
-  Minimal, readable baseline for image captioning; useful as a sanity check and ablation bed.  
-  Repo: <https://github.com/Bruni-coder/multimodal-captioning-via-clip-gpt2>
+**Frameworks and Tools**  
+PyTorch, NumPy, OpenCV, Git, Linux, Jupyter
 
-## Collaboration
+**Research Tools**  
+Overleaf, TensorBoard, CUDA
 
-I welcome academic discussion and lightweight collaborations around attention alternatives, unified token interfaces, and evaluation protocols for multimodal NTP systems.
+---
 
-## Contact
+### Academic Goals
 
-- Email: **lnubruni@gmail.com**  
-- GitHub Issues: open an issue on any relevant repository
+Preparing for postgraduate studies in computer science with a focus on AI algorithms and computer vision. Interested in research opportunities related to neural rendering and efficient machine learning.
+
+---
+
+### Contact
+
+Email: lnubruni@gmail.com  
+GitHub: https://github.com/BruniLiu
