@@ -56,13 +56,15 @@ Linux, Git, CUDA, TensorBoard, Cloud GPUs
 
 ### Education
 
-Liaoning University – B.A. in Accounting  
-- GPA: 3.9/4.0, Rank: 3/187  
-- Actively transitioning into computer science through research projects and self-driven study  
+### Education and Academic Training
+
+Liaoning University  
+B.A. in Accounting, GPA 3.9/4.0 (Rank: 3/187)  
+Actively transitioning into computer science through research projects and technical coursework.
 
 Supplementary Studies  
-- Artificial Intelligence coursework at University College London (UCL Summer Program)  
-- Short course on Large Language Models at Peking University  
+- University College London (UCL): Artificial Intelligence – Concepts and Applications  
+- Peking University (PKU): Short Course on Large Language Models
 
 ---
 
