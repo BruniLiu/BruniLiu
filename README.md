@@ -54,7 +54,6 @@ Linux, Git, CUDA, TensorBoard, Cloud GPUs
 
 ---
 
-### Education
 
 ### Education and Academic Training
 
