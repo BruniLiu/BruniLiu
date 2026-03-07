@@ -58,7 +58,7 @@ Linux, Git, CUDA, TensorBoard, Cloud GPUs
 ### Education and Academic Training
 
 Liaoning University  
-B.A. in Accounting, GPA 3.9/4.0 (Rank: 3/187)  
+B.A. in Accounting, GPA 3.7/4.0 (Rank: 20/187)  
 Actively transitioning into computer science through research projects and technical coursework.
 
 Supplementary Studies  
