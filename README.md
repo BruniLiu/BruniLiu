@@ -1,3 +1,3 @@
 ## Hi, I'm Bruni
 
-"Stay hungry, stay foolish."  
+I know that my mission is to explore the boundaries of life.  
